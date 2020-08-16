@@ -1,0 +1,73 @@
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.exe
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.pdb
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.Form1.resources
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.Properties.Resources.resources
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.GenerateResource.Cache
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.exe
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.pdb
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.exe
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.pdb
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.Properties.Resources.resources
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.exe
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.pdb
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.Capturing.resources
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ImageComparison.Comparing.resources
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.exe.config
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.IO.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Runtime.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Threading.Tasks.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.IO.xml
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Runtime.xml
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Threading.Tasks.xml
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.App.config
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.CopyComplete
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Castle.Core.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\TestStack.White.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Castle.Core.xml
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\TestStack.White.pdb
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\TestStack.White.xml
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\DELL\Downloads\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.exe.config
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.exe
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.pdb
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Castle.Core.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Drawing.Common.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.IO.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Runtime.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Threading.Tasks.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\TestStack.White.dll
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Castle.Core.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.IO.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Runtime.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\System.Threading.Tasks.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\TestStack.White.pdb
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\TestStack.White.xml
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.App.config
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csprojAssemblyReference.cache
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.Capturing.resources
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ImageComparison.Comparing.resources
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.Properties.Resources.resources
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.GenerateResource.cache
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.CoreCompileInputs.cache
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.CopyComplete
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.exe
+D:\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.pdb

@@ -1,0 +1,7 @@
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.exe
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\bin\Debug\ScreenCaptureDemo.pdb
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.Form1.resources
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.Properties.Resources.resources
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.csproj.GenerateResource.Cache
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.exe
+c:\users\neo\documents\visual studio 2010\Projects\ScreenCaptureDemo\ScreenCaptureDemo\obj\x86\Debug\ScreenCaptureDemo.pdb
